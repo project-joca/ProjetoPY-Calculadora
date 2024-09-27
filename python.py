@@ -1,4 +1,3 @@
-#Alunos: #ALUNOS: João Carlos Abreu, Kristhiam Santana, Mizael Jonatas, Jefferson Carvalho, Eliaquim Ruela, Vitor Hugo, Endrew, Gustavo, Igor de Carvalho.
 
 # importando tkinter
 from tkinter import *
